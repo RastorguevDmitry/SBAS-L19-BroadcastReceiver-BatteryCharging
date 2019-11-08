@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Battery Lelel</string>
+    <string name="is_charging">Зарядка: </string>
+</resources>
